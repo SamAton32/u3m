@@ -6,12 +6,6 @@ http://supersonictv.live:8080/062955/799575/40409
 http://supersonictv.live:8080/062955/799575/40465
 #EXTINF:-1 group_id="1" group-title="MULTI" tvg-id="None",NBA TV TURKEY
 http://supersonictv.live:8080/062955/799575/86294
-#EXTINF:-1 group_id="1" group-title="MULTI" tvg-id="None",TNT EAST USA
-http://supersonictv.live:8080/062955/799575/22159
-#EXTINF:-1 group_id="1" group-title="MULTI" tvg-id="None",TNT PACIFIC USA
-http://supersonictv.live:8080/062955/799575/22160
-#EXTINF:-1 group_id="1" group-title="MULTI" tvg-id="None",TNT WEST USA
-http://supersonictv.live:8080/062955/799575/22161
 #EXTINF:-1 group_id="1" group-title="MULTI" tvg-id="None",BEIN SPORTS USA
 http://supersonictv.live:8080/062955/799575/22187
 #EXTINF:-1 group_id="1" group-title="MULTI" tvg-id="None",BEIN SPORTS MAX 1 FRANCE
@@ -22,56 +16,83 @@ http://supersonictv.live:8080/062955/799575/84911
 http://supersonictv.live:8080/062955/799575/78936
 #EXTINF:-1 group_id="1" group-title="MULTI" tvg-id="None",FOX SPORTS 2 USA
 http://supersonictv.live:8080/062955/799575/78937
-#EXTGRP:NBC
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS BAY AREA
-http://supersonictv.live:8080/062955/799575/78963
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS BOSTON
-http://supersonictv.live:8080/062955/799575/78965
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS CALIFORNIA
-http://supersonictv.live:8080/062955/799575/78966
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS CHICAGO
-http://supersonictv.live:8080/062955/799575/78968
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS NETWORK
-http://supersonictv.live:8080/062955/799575/78970
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS NORTHWEST
-http://supersonictv.live:8080/062955/799575/78971
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS PHILADELPHIA
-http://supersonictv.live:8080/062955/799575/78972
-#EXTINF:-1 group_id="2" group-title="NBC" tvg-id="None",NBC SPORTS WASHINGTON
-http://supersonictv.live:8080/062955/799575/78974
 #EXTGRP:ESPN
-#EXTINF:-1 group_id="3" group-title="ESPN" tvg-id="None",ESPN 1 USA
+#EXTINF:-1 group_id="2" group-title="ESPN" tvg-id="None",ESPN 1 USA
 http://supersonictv.live:8080/062955/799575/22198
-#EXTINF:-1 group_id="3" group-title="ESPN" tvg-id="None",ESPN 2 USA
+#EXTINF:-1 group_id="2" group-title="ESPN" tvg-id="None",ESPN 2 USA
 http://supersonictv.live:8080/062955/799575/22199
-#EXTINF:-1 group_id="3" group-title="ESPN" tvg-id="None",ESPN 1
+#EXTINF:-1 group_id="2" group-title="ESPN" tvg-id="None",ESPN 1
 http://splaytv.club:80/Wallaceoliv/gp026035/83208
-#EXTINF:-1 group_id="3" group-title="ESPN" tvg-id="None",ESPN 2
+#EXTINF:-1 group_id="2" group-title="ESPN" tvg-id="None",ESPN 2
 http://splaytv.club:80/Wallaceoliv/gp026035/83209
-#EXTINF:-1 group_id="3" group-title="ESPN" tvg-id="None",ESPN 3
+#EXTINF:-1 group_id="2" group-title="ESPN" tvg-id="None",ESPN 3
 http://splaytv.club:80/Wallaceoliv/gp026035/83207
-#EXTINF:-1 group_id="3" group-title="ESPN" tvg-id="None",ESPN 4
+#EXTINF:-1 group_id="2" group-title="ESPN" tvg-id="None",ESPN 4
 http://splaytv.club:80/Wallaceoliv/gp026035/83217
-#EXTINF:-1 group_id="3" group-title="ESPN" tvg-id="None",ESPN Extra
+#EXTINF:-1 group_id="2" group-title="ESPN" tvg-id="None",ESPN Extra
 http://splaytv.club:80/Wallaceoliv/gp026035/83210
 #EXTGRP:EURO
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 1 ENGLAND
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 1 ENGLAND
 http://supersonictv.live:8080/381108/840829/40451
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 2 ENGLAND
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 2 ENGLAND
 http://supersonictv.live:8080/381108/840829/40452
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 1 FRANCE
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 1 FRANCE
 http://supersonictv.live:8080/381108/840829/84909
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 2 FRANCE
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 2 FRANCE
 http://supersonictv.live:8080/381108/840829/84908
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 1 GERMANY
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 1 GERMANY
 http://supersonictv.live:8080/381108/840829/84724
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 2 GERMANY
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 2 GERMANY
 http://supersonictv.live:8080/381108/840829/84725
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 1 ITALIA
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 1 ITALIA
 http://supersonictv.live:8080/381108/840829/83479
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 2 ITALIA
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 2 ITALIA
 http://supersonictv.live:8080/381108/840829/83478
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 1 SPAIN
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 1 SPAIN
 http://supersonictv.live:8080/381108/840829/85900
-#EXTINF:-1 group_id="4" group-title="EURO" tvg-id="None",EUROSPORT 2 SPAIN
+#EXTINF:-1 group_id="3" group-title="EURO" tvg-id="None",EUROSPORT 2 SPAIN
 http://supersonictv.live:8080/381108/840829/85901
+#EXTGRP:NBC
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS BAY AREA
+http://supersonictv.live:8080/062955/799575/78963
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS BOSTON
+http://supersonictv.live:8080/062955/799575/78965
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS CALIFORNIA
+http://supersonictv.live:8080/062955/799575/78966
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS CHICAGO
+http://supersonictv.live:8080/062955/799575/78968
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS NETWORK
+http://supersonictv.live:8080/062955/799575/78970
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS NORTHWEST
+http://supersonictv.live:8080/062955/799575/78971
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS PHILADELPHIA
+http://supersonictv.live:8080/062955/799575/78972
+#EXTINF:-1 group_id="4" group-title="NBC" tvg-id="None",NBC SPORTS WASHINGTON
+http://supersonictv.live:8080/062955/799575/78974
+#EXTGRP:TNT
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT EAST USA
+http://supersonictv.live:8080/062955/799575/22159
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT PACIFIC USA
+http://supersonictv.live:8080/062955/799575/22160
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT WEST USA
+http://supersonictv.live:8080/062955/799575/22161
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 1 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/270
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 2 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/273
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 3 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/271
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 4 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/298471
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 5 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/1124
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 6 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/47961
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 7 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/279255
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 8 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/7435
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 9 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/7438
+#EXTINF:-1 group_id="5" group-title="TNT" tvg-id="None",TNT Sports 10 ENGLAND
+http://37.49.225.197:8080/noloseiclou2023/2548yhguygTumKUNUx/283203
