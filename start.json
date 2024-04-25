@@ -13,11 +13,6 @@
    },
    "items": [
       {
-         "title": "ICVA",
-         "image": "http://icva.mx/msx-logo.png",
-         "action": "link:http://icva.mx"
-      },
-      {
          "title": "Lampa",
          "image": "http://lampa.mx/msx-logo.png",
          "action": "link:http://lampa.mx"
