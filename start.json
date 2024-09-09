@@ -1,0 +1,21 @@
+{
+   "name": "cub.red",
+   "type": "list",
+   "headline": "Телевидение и кино",
+   "version": "1.0.0",
+   "parameter": "content:https://raw.githubusercontent.com/SamAton32/u3m/master/start.json",
+   "action": "[settings:validate_links:0|home]",
+   "dictionary": "http://lampa.mx/msx/lang/ru.json",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Lampa",
+         "image": "http://lampa.mx/msx-logo.png",
+         "action": "link:http://lampa.mx"
+      }
+   ]
+}
