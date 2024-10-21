@@ -10,55 +10,55 @@ http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 group-title="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
 http://77.106.252.178:4022/udp/233.33.210.86:5050
 #EXTINF:-1 group-title="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
-http://91.207.114.220:9001/play/a04y/index.m3u8
+http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
 http://tv.newline.in.ua:9014/play/t014
-#EXTINF:-1 group-title="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
-http://91.224.169.250:5000/c301
 #EXTINF:-1 group-title="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
 http://91.207.115.228:12000/play/a001
 #EXTINF:-1 group-title="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
 http://193.242.204.28:10001/1
+#EXTINF:-1 group-title="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
+http://91.207.115.228:9001/play/a04y/index.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
 http://93.189.224.246:52900/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
 https://stream2.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
 https://stream1.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
-http://91.207.114.220:9001/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
 http://193.242.204.28:10002/2
-#EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
-http://31.47.199.45:1401/matchtv/index.m3u8
+#EXTINF:-1 group-title="Россия 1" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1
+http://91.207.115.228:12000/play/a002
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
-http://catchup.videoline.ru/match/index.m3u8
+http://91.194.191.241:8081/chid18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
+#EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
+http://catchup.videoline.ru/match/index.m3u8
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
 http://91.142.158.107:8092/play/3/index.m3u8
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
 http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
-http://91.194.191.241:8081/chid18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
 http://tv.tuva.ru:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
-http://91.207.114.220:9001/play/a050/index.m3u8
+http://91.224.169.250:5000/c303
 #EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
-http://91.207.115.228:9001/play/a050/index.m3u8
+http://91.207.115.228:12000/play/a003
+#EXTINF:-1 group-title="Матч!" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
+http://91.207.114.220:9001/play/a050/index.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
@@ -68,59 +68,61 @@ http://cdn2.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
 http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
-http://31.47.199.45:1401/ntvmir/index.m3u8
-#EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
-http://185.50.148.2:7702/NTV/index.m3u8
+http://91.205.199.3/ntv/index.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
-http://91.205.199.3/ntv/index.m3u8
+http://185.50.148.2:7702/NTV/index.m3u8
+#EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
+http://77.106.252.178:4022/udp/233.33.210.82:5050
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
 https://stream2.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ" tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ
-http://77.106.252.178:4022/udp/233.33.210.82:5050
+http://91.224.169.250:5000/c304
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
 http://93.189.224.246:52900/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
-http://77.106.252.178:4022/udp/233.33.210.6:5050
-#EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
 http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
 http://91.142.158.107:8092/play/35/index.m3u8
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
-http://91.207.115.228:9001/play/a052/index.m3u8
-#EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
-http://91.207.114.220:9001/play/a052/index.m3u8
+http://77.106.252.178:4022/udp/233.33.210.6:5050
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
 http://91.224.169.250:5000/c305
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
-http://tv.newline.in.ua:9015/play/3232
+http://178.163.0.173:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
+http://193.242.204.28:10005/5
 #EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
 http://91.207.115.228:12000/play/a005
+#EXTINF:-1 group-title="Пятый канал" tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png",Пятый канал
+http://tv.newline.in.ua:9015/play/3232
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
+http://95.83.111.209:4022/udp/239.255.40.6:5500
+#EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 http://91.205.199.3/kultura/index.m3u8
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 http://94.230.128.105:8080/Rossia_K/index.m3u8
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
-http://31.47.199.45:1401/kultura/index.m3u8
-#EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 http://77.235.1.17/rossia_k_crdru/index.m3u8
+#EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
+http://31.47.199.45:1401/kultura/index.m3u8
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 http://91.142.158.107:8092/play/36/index.m3u8
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 https://stream2.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
 https://stream1.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия К" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия К
-http://95.83.111.209:4022/udp/239.255.40.6:5500
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
 http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
+http://93.189.224.246:52900/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
 http://stream01.vnet.am/Rossia24/mono.m3u8
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
@@ -128,19 +130,15 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
 https://streaming.goodstream.cyou/live/30.m3u8
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
-http://93.189.224.246:52900/play/a00o/index.m3u8
+http://91.194.191.241:8081/chid10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
 http://91.142.158.107:8092/play/7/index.m3u8
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
-http://91.142.158.107:8092/play/37/index.m3u8
-#EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
-http://edge02.odtv.az/o1/rossiya24/playlist.m3u8
+http://91.142.158.107:8092/play/37/index.m3u8
 #EXTINF:-1 group-title="Россия 24" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",Россия 24
 https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
-http://31.47.199.45:1401/karusel/index.m3u8
 #EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
@@ -148,9 +146,9 @@ https://streaming.goodstream.cyou/live/232.m3u8
 #EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
 http://193.242.190.6:8099/8/index.m3u8
 #EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
 http://82.215.111.227/1034/index.m3u8
+#EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
 http://77.235.1.17/karusel/index.m3u8
 #EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
@@ -159,66 +157,68 @@ http://91.142.158.107:8092/play/8/index.m3u8
 http://91.142.158.107:8092/play/38/index.m3u8
 #EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
 https://player.smotrim.ru/iframe/stream/live_id/61126
+#EXTINF:-1 group-title="Карусель" tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
+https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
+http://185.50.148.2:7702/OTR/index.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
-http://185.50.148.2:7702/OTR/index.m3u8
-#EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://91.142.158.107:8092/play/39/index.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://91.142.158.107:8092/play/9/index.m3u8
-#EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
-http://91.207.115.228:9001/play/a056/index.m3u8
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://tv.newline.in.ua:9014/play/t004
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://91.207.115.228:12000/play/a009
 #EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://91.224.169.250:5000/c309
+#EXTINF:-1 group-title="ОТР" tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
+http://91.207.114.220:9001/play/a056/index.m3u8
 #EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 http://91.142.158.107:8092/play/40/index.m3u8
-#EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
-http://edge02.odtv.az/o2/tvc/playlist.m3u8
-#EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
-https://stream2.cinerama.uz/1281/index.m3u8
 #EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 https://stream1.cinerama.uz/1281/index.m3u8
 #EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
-http://91.207.115.228:9001/play/a057/index.m3u8
+https://stream2.cinerama.uz/1281/index.m3u8
+#EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
+http://edge02.odtv.az/o2/tvc/playlist.m3u8
 #EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 http://193.242.204.28:10010/10
 #EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 http://91.224.169.250:5000/c310
+#EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
+http://tv.newline.in.ua:9014/play/t005
+#EXTINF:-1 group-title="ТВ Центр" tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
+http://91.207.115.228:12000/play/a00a
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
 http://93.189.224.246:52900/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
-http://31.47.199.45:1401/rentv/index.m3u8
-#EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
-http://185.23.80.28:8080/REN/index.m3u8
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
 http://stream01.vnet.am/RenTv/mono.m3u8
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
-http://91.142.158.107:8092/play/41/index.m3u8
+http://185.23.80.28:8080/REN/index.m3u8
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
+http://91.142.158.107:8092/play/41/index.m3u8
+#EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
-http://91.207.115.228:9001/play/a058/index.m3u8
+http://91.207.115.228:12000/play/a00b
 #EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
-http://91.207.114.220:9001/play/a058/index.m3u8
+http://tv.newline.in.ua:9011/play/p00a
+#EXTINF:-1 group-title="Рен ТВ" tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
+http://193.242.204.28:10011/11
 #EXTINF:-1 group-title="Известия" tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Известия" tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png",Известия
@@ -236,53 +236,53 @@ http://37.205.83.56:81/udp/239.0.42.71:1224
 #EXTINF:-1 group-title="Известия" tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png",Известия
 http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-http://31.47.199.45:1401/sts/index.m3u8
+https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 http://s1.merlive.am/sts/index.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-https://streaming.goodstream.cyou/live/296.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 http://uiptv.do.am/1ufc/105567126/playlist.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-#EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 https://s18209.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-http://91.207.114.220:9001/play/a05a/index.m3u8
-#EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 http://91.207.115.228:12000/play/a00d
-#EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+#EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
+http://tv.newline.in.ua:9014/play/t017
+#EXTINF:-1 group-title="СТС" tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
+http://193.242.204.28:10013/13
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 http://91.205.199.3/domashni/index.m3u8
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://uiptv.do.am/1ufc/104487210/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 http://91.142.158.107:8092/play/14/index.m3u8
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://91.207.114.220:9001/play/a05b/index.m3u8
+http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 http://77.106.252.178:4022/udp/233.33.210.31:5050
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://91.207.115.228:9001/play/a05b/index.m3u8
+http://91.224.169.250:5000/c314
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 http://91.207.115.228:12000/play/a00e
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://91.224.169.250:5000/c314
+http://91.207.115.228:9001/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 http://193.242.204.28:10018/18
+#EXTINF:-1 group-title="Домашний" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
+http://tv.newline.in.ua:9002/play/g00f
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
-http://31.47.199.45:1401/tv3/index.m3u8
-#EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
 http://82.215.111.227/1435/index.m3u8
+#EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
 http://77.235.1.17/tv3/index.m3u8
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
@@ -292,39 +292,39 @@ https://stream1.cinerama.uz/1435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
 https://stream2.cinerama.uz/1435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+http://91.224.169.250:5000/c315
 #EXTINF:-1 group-title="ТВ 3" tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3
-http://91.207.114.220:9001/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
-http://93.189.224.246:52900/play/a00n/index.m3u8
+http://91.207.115.228:12000/play/a00f
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
+http://93.189.224.246:52900/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
 http://91.142.158.107:8092/play/16/index.m3u8
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
 http://77.106.252.178:4022/udp/233.33.220.52:5050
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
-http://91.224.169.250:5000/c316
+http://91.207.115.228:12000/play/a00g
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
 http://193.242.204.28:10015/15
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
-http://91.207.115.228:12000/play/a00g
+http://tv.newline.in.ua:9009/play/a00d
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
 http://91.207.115.228:9001/play/a05d/index.m3u8
 #EXTINF:-1 group-title="Пятница!" tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
-http://tv.newline.in.ua:9009/play/a00d
-#EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+http://91.207.114.220:9001/play/a05d/index.m3u8
 #EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
 http://93.189.224.246:52900/play/a015/index.m3u8
 #EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
-http://31.47.199.45:1401/zvezda/index.m3u8
-#EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
 http://stream01.vnet.am/Zvezda/mono.m3u8
+#EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
+http://stream01.vnet.am/Zvezda/index.m3u8
 #EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
 https://streaming.goodstream.cyou/live/748.m3u8
 #EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
@@ -332,129 +332,129 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
 #EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
 http://77.235.1.17/zvezda/index.m3u8
 #EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
-http://stream01.vnet.am/Zvezda/index.m3u8
-#EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
 https://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
-http://ott-cdn.ucom.am/s39/04.m3u8
-#EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
-http://31.47.199.45:1401/mir/index.m3u8
+#EXTINF:-1 group-title="Звезда" tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда
+http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
 http://stream02.vnet.am/Mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
 http://91.205.199.3/mirtv/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
-http://s1.merlive.am/Mir/index.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
+#EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
+#EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
+http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
+http://31.47.199.45:1401/mir/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
 http://94.230.128.105:8080/MIR/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
 http://91.142.158.107:8092/play/18/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
-#EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
+http://s1.merlive.am/Mir/index.m3u8
 #EXTINF:-1 group-title="МИР" tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР
 https://stream2.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://31.47.199.45:1401/tnt/index.m3u8
-#EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 http://185.223.125.136:1984/play/THT/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://185.50.148.2:7702/TNT/index.m3u8
-#EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
+http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 http://91.142.158.107:8092/play/49/index.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://91.207.114.220:9001/play/a05g/index.m3u8
+http://91.207.115.228:12000/play/a00j
 #EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://91.207.115.228:9001/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
-http://31.47.199.45:1401/muztv/index.m3u8
-#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
-https://streaming.goodstream.cyou/live/618.m3u8
-#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
-http://s1.merlive.am/muztv/index.m3u8
+http://91.224.169.250:5000/c319
+#EXTINF:-1 group-title="ТНТ" tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
+http://91.207.114.220:9001/play/a05g/index.m3u8
 #EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
+https://streaming.goodstream.cyou/live/618.m3u8
+#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
 http://91.205.199.3/muztv/index.m3u8
+#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
+http://91.194.191.241:8081/chid8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
+http://s1.merlive.am/muztv/index.m3u8
 #EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
 http://77.235.1.17/muz_tv/index.m3u8
 #EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
 http://91.142.158.107:8092/play/20/index.m3u8
 #EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
-http://91.194.191.241:8081/chid8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
 https://stream1.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
 https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
-http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Муз-ТВ" tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png",Муз-ТВ
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
 #EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
 http://77.235.1.17/bober/index.m3u8
 #EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
 http://91.194.191.241:8081/chid34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
-http://193.242.204.28:10163/163
+http://tv.newline.in.ua:9005/play/a0ci
 #EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
 http://109.200.130.123:7537/play/a02c
 #EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
-http://tv.newline.in.ua:9005/play/a0ci
+http://193.242.204.28:10163/163
 #EXTINF:-1 group-title="Бобёр" tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр
 https://cdn1.skygo.mn/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 group-title="Загородная жизнь" tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
 http://91.194.191.241:8081/chid167/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Загородная жизнь" tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
-http://195.26.83.96:7007/play/10/index.m3u8
-#EXTINF:-1 group-title="Загородная жизнь" tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
 http://193.242.204.28:10180/180
 #EXTINF:-1 group-title="Загородная жизнь" tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
 http://tv.newline.in.ua:9012/play/r00n
+#EXTINF:-1 group-title="Загородная жизнь" tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
+http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://94.230.128.105:8080/KuhnyaTV/index.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
-http://77.235.1.17/kuhnya/index.m3u8
+http://91.194.191.241:8081/chid473/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://82.215.111.227/1236/index.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
-http://91.194.191.241:8081/chid473/tracks-v1a1/mono.m3u8
+http://77.235.1.17/kuhnya/index.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 https://stream2.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
-http://91.207.114.220:9001/play/a04s/index.m3u8
+http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
-http://91.207.115.228:9001/play/a04s/index.m3u8
+http://91.224.169.250:5000/c27
 #EXTINF:-1 group-title="Кухня ТВ" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
-http://193.242.204.28:10037/37
-#EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
-http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+http://tv.newline.in.ua:9000/play/f08b
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
-http://cdn.ntv.ru/th_style/mono.m3u8
+http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
+http://cdn.ntv.ru/th_style/mono.m3u8
+#EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
 http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
-http://s1.merlive.am/ntvstil/index.m3u8
+http://91.205.199.3/ntvstil/index.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
 http://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
-http://91.205.199.3/ntvstil/index.m3u8
+http://s1.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
 http://185.223.125.136:1984/play/a05y/index.m3u8
 #EXTINF:-1 group-title="НТВ-Стиль" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ-Стиль
@@ -462,23 +462,23 @@ http://tv.newline.in.ua:9004/play/a09z
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
 http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
+http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
+#EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
+http://91.194.191.241:8081/chid32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
 http://77.235.1.17/usadba/index.m3u8
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
 http://82.215.111.227/1427/index.m3u8
-#EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
-http://91.194.191.241:8081/chid32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
 https://stream2.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
 https://stream1.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
-https://stream1.cinerama.uz/1427/index.m3u8
-#EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
 https://stream2.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
-http://91.207.115.228:12000/play/a04t
+https://stream1.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="Усадьба" tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png",Усадьба
-http://tv.newline.in.ua:9010/play/o0bk
+http://91.207.115.228:12000/play/a04t
 #EXTINF:-1 group-title="Дикий" tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
 http://tv.newline.in.ua:9000/play/f08q
 #EXTINF:-1 group-title="Дикий" tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
@@ -486,9 +486,9 @@ http://91.207.115.228:12000/play/a02m
 #EXTINF:-1 group-title="Дикий" tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
 http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1 group-title="Дикий" tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
-http://91.224.169.250:5000/c160
-#EXTINF:-1 group-title="Дикий" tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
 http://193.242.204.28:10139/139
+#EXTINF:-1 group-title="Дикий" tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
+http://91.224.169.250:5000/c160
 #EXTINF:-1 group-title="Дикий" tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
 http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Зоо ТВ" tvg-id="ZooTV.ru" tvg-logo="https://i.imgur.com/p7WzqGS.png",Зоо ТВ
@@ -500,23 +500,25 @@ http://91.207.115.228:12000/play/a02f
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
 http://86.57.198.251:8181/play/1018/index.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
-http://31.47.199.45:1401/nature/index.m3u8
+http://185.50.148.2:7703/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
 http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
-http://195.26.83.96:7013/play/37/index.m3u8
-#EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
-https://stream2.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
 https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
+https://stream2.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
 http://82.215.111.227/1228/index.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
-http://91.205.199.3/viasatnature/index.m3u8
+http://77.235.1.17/viasat_nature/index.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 group-title="viju Nature" tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png",viju Nature
-http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7013/play/37/index.m3u8
+#EXTINF:-1 group-title="ZooПарк" tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПарк
+http://77.106.252.178:4022/udp/233.33.221.27:5050
 #EXTINF:-1 group-title="ZooПарк" tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПарк
 http://91.205.199.3/zoopark/index.m3u8
 #EXTINF:-1 group-title="ZooПарк" tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПарк
@@ -528,8 +530,6 @@ https://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ZooПарк" tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПарк
 https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ZooПарк" tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПарк
-http://77.106.252.178:4022/udp/233.33.221.27:5050
-#EXTINF:-1 group-title="ZooПарк" tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПарк
 http://91.207.115.228:12000/play/a04u
 #EXTINF:-1 group-title="ZooПарк" tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПарк
 http://91.224.169.250:5000/c45
@@ -540,19 +540,19 @@ http://88.85.172.243:7004/play/a010
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
 http://91.205.199.3/roos-365-dnej/manifest.m3u8
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
-https://stream1.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
 https://stream2.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
-http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
 http://91.207.115.228:9001/play/a04m/index.m3u8
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
 http://91.207.115.228:12000/play/a00z
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
-http://tv.newline.in.ua:9000/play/f082
-#EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
 http://91.224.169.250:5000/c25
+#EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
+http://tv.newline.in.ua:9000/play/f082
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
 http://91.207.114.220:9001/play/a04m/index.m3u8
 #EXTINF:-1 group-title="365 дней ТВ" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
